@@ -44,7 +44,7 @@ function saveLeades() {
     x = inputed.value;
     inputed.value = "";
     theLeads.push(x);
-    // console.log(theLeads);
+  
     printLead(theLeads);
     localStorage.setItem("theLeads", JSON.stringify(theLeads));
     
