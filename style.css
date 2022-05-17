@@ -1,0 +1,38 @@
+body {
+    min-width: 400px;
+    min-height: 400px;
+}
+button {
+    padding: 24px 60px;
+    background-color: blueviolet;
+    margin-top: 20px;
+    color: white;
+    font-size: 26px;
+}
+
+input {
+    padding-left: 20px;
+    display: block;
+    border: 1px solid blueviolet;
+    height: 70px;
+    width: 300px;
+    font-size: 20px;
+}
+
+
+
+a {
+    color: blueviolet;
+    font-size: 20px;
+  
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+ul li {
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+}
